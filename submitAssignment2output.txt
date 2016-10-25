@@ -1,0 +1,20 @@
+[vulcan]s1687568: submit iaml 2 iamlans
+
+Please wait! "submit" has not yet finished.
+
+This sometimes takes a while. Please be patient.
+/usr/bin/shar: Saving iamlans/05_Assignment_2_pligor.ipynb (text)
+
+
+Submit the following for exercise 2 of course iaml.
+/afs/inf.ed.ac.uk/user/s16/s1687568/Desktop/iamlans
+Is this correct (y/n: n aborts)? y
+x - created lock directory _sh01640.
+x - created directory iamlans.
+x - extracting iamlans/05_Assignment_2_pligor.ipynb (text)
+x - removed lock directory _sh01640.
+
+
+Submission of the following for exercise 2 of course iaml succeeded:
+/afs/inf.ed.ac.uk/user/s16/s1687568/Desktop/iamlans
+
