@@ -1,0 +1,23 @@
+[vulcan]s1687568: submit iaml 3 iamlans
+
+Please wait! "submit" has not yet finished.
+
+This sometimes takes a while. Please be patient.
+/usr/bin/shar: Saving iamlans/07_Assignment_3-pligor.ipynb (text)
+/usr/bin/shar: Saving iamlans/assignment_3_predictions.txt (text)
+
+
+Submit the following for exercise 3 of course iaml.
+/afs/inf.ed.ac.uk/user/s16/s1687568/Desktop/iamlans
+Is this correct (y/n: n aborts)? y
+x - created lock directory _sh10773.
+x - created directory iamlans.
+x - extracting iamlans/07_Assignment_3-pligor.ipynb (text)
+x - extracting iamlans/assignment_3_predictions.txt (text)
+x - removed lock directory _sh10773.
+
+
+Submission of the following for exercise 3 of course iaml succeeded:
+/afs/inf.ed.ac.uk/user/s16/s1687568/Desktop/iamlans
+[vulcan]s1687568: 
+
